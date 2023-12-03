@@ -25,7 +25,7 @@ From your command line, first clone this repo:
 
 ```
 # Clone this repository
-$ https://www.github.com/sayantansikdar.rhymo-react-ecommerce.git
+$ https://www.github.com/sayantansikdar.rhymo.git
 
 # Go into the repository
 $ cd rhymo-react-ecommerce
